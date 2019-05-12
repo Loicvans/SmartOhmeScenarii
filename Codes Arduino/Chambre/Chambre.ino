@@ -363,6 +363,6 @@ void loop() {
         client.publish(mqtt_topic_color_led, "Button pressed!");
   }
 
-  delay(2000);
+  // delay(2000);
 
 }
