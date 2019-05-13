@@ -1,3 +1,14 @@
+/* Dans le cadre du projet Smart Ohm'e de BA3 ingénieur civil en informatique et gestion
+ *  AFENZOUAR Farid 
+ *  email : Farid.AFENZOUAR@student.umons.ac.be
+ *  FISICARO Federico
+ *  email: Federico.FISICARO@student.umons.ac.be
+ *  NGUYEN Harry
+ *  email : Harry.NGUYEN@student.umons.ac.be
+ *  VANSNICK Loïc
+ *  email : Loic.VANSNICK@student.umons.ac.be
+ */
+
 #include <WiFi.h> // Enables the ESP8266 to connect to the local network (via WiFi)
 #include <PubSubClient.h> // Allows us to connect to, and publish to the MQTT broker
 
